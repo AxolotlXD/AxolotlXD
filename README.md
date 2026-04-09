@@ -23,10 +23,10 @@
 
 # Mais
 🎸| Banda Preferida: System of a Down
-🎶| Músia Favorita: Deer Dance - SOAD
-🕹️| Custumo jogar Minecraft, Roblox e ZZZ
+<br>🎶| Músia Favorita: Deer Dance - SOAD
+<br>🕹️| Custumo jogar Minecraft, Roblox e ZZZ
 
 # Redes Sociais
 👾| Discord: axolotlxd.
-🎨| Twitter: @AxolotlXisDe (Posto meus Desenhos aqui!)
-💬| Contato/Whatsapp: (19) 99431-1238
+<br>🎨| Twitter: @AxolotlXisDe (Posto meus Desenhos aqui!)
+<br>💬| Contato/Whatsapp: (19) 99431-1238
