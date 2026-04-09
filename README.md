@@ -9,14 +9,14 @@
 # Sobre mim:
 
 📚| Cursando Análise e Desenvolvimento de Sistemas Na FATEC Arthur de Azevedo
-✨| Ensino Médio completo na ETEC Pedro Ferreira Alves 
-🖼️| Frontend quase dominado
-🎈| Tentando achar uma linguagem que eu me identifique para o Backend
-🎮| Adoro jogar, ler e desenhar no meu tempo livre
+<br> ✨| Ensino Médio completo na ETEC Pedro Ferreira Alves
+<br> 🖼️| Frontend quase dominado
+<br> 🎈| Tentando achar uma linguagem que eu me identifique para o Backend
+<br> 🎮| Adoro jogar, ler e desenhar no meu tempo livre
 
 # Nível de Habilidade
 
 🟢| HTML/CSS
-🟡| Python
-🟠| JavaScript
-🟠| PhP
+<br> 🟡| Python
+<br> 🟠| JavaScript
+<br> 🟠| PhP
