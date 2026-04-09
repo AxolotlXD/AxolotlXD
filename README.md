@@ -20,3 +20,13 @@
 <br> 🟡| Python
 <br> 🟠| JavaScript
 <br> 🟠| PhP
+
+# Mais
+🎸| Banda Preferida: System of a Down
+🎶| Músia Favorita: Deer Dance - SOAD
+🕹️| Custumo jogar Minecraft, Roblox e ZZZ
+
+# Redes Sociais
+👾| Discord: axolotlxd.
+🎨| Twitter: @AxolotlXisDe (Posto meus Desenhos aqui!)
+💬| Contato/Whatsapp: (19) 99431-1238
