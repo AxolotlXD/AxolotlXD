@@ -22,8 +22,9 @@
 <br> 🟠| PhP
 
 # Mais
-🎸| Banda Preferida: System of a Down
+🎸| Banda Favorita: System of a Down
 <br>🎶| Músia Favorita: Deer Dance - SOAD
+<br>📖| Obra Favorita: Hell's Paradise / Jigokuraku
 <br>🕹️| Custumo jogar Minecraft, Roblox e ZZZ
 
 # Redes Sociais
