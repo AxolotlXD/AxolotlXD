@@ -18,7 +18,7 @@
 
 🟢| HTML/CSS
 <br> 🟡| Python
-<br> 🟠| JavaScript
+<br> 🟡| JavaScript
 <br> 🟠| PhP
 
 # Mais
