@@ -17,7 +17,7 @@
 # Nível de Habilidade
 
 🟢| HTML/CSS
-<br> 🟡| Python
+<br> 🟢| Python
 <br> 🟡| JavaScript
 <br> 🟠| PhP
 
